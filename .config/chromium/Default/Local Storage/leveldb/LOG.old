@@ -1,0 +1,15 @@
+2023/05/25-17:08:30.796 3 Reusing MANIFEST /home/wunwun91/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/25-17:08:30.898 3 Recovering log #35
+2023/05/25-17:08:30.911 3 Reusing old log /home/wunwun91/.config/chromium/Default/Local Storage/leveldb/000035.log 
+2023/05/25-17:09:40.997 4 Level-0 table #39: started
+2023/05/25-17:09:41.018 4 Level-0 table #39: 162340 bytes OK
+2023/05/25-17:09:41.029 4 Delete type=0 #35
+2023/05/25-17:09:41.031 3 Compacting 4@0 + 1@1 files
+2023/05/25-17:09:41.134 3 Generated table #40@0: 403 keys, 746326 bytes
+2023/05/25-17:09:41.134 3 Compacted 4@0 + 1@1 files => 746326 bytes
+2023/05/25-17:09:41.140 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/25-17:09:41.144 3 Delete type=2 #39
+2023/05/25-17:09:41.144 3 Delete type=2 #34
+2023/05/25-17:09:41.144 3 Delete type=2 #31
+2023/05/25-17:09:41.144 3 Delete type=2 #36
+2023/05/25-17:09:41.144 3 Delete type=2 #29

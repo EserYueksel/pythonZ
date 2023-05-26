@@ -1,0 +1,6 @@
+2022/08/26-16:33:07.804 a85 Creating DB /home/wunwun91/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2022/08/26-16:33:07.816 a85 Reusing MANIFEST /home/wunwun91/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/26-16:33:41.212 a86 Level-0 table #5: started
+2022/08/26-16:33:41.218 a86 Level-0 table #5: 8677 bytes OK
+2022/08/26-16:33:41.222 a86 Delete type=0 #3
+2022/08/26-16:33:41.223 a86 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

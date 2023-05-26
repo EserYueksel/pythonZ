@@ -1,0 +1,6 @@
+2023/05/26-08:11:50.195 3 Reusing MANIFEST /home/wunwun91/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/26-08:11:50.285 3 Recovering log #38
+2023/05/26-08:11:50.298 3 Reusing old log /home/wunwun91/.config/chromium/Default/Local Storage/leveldb/000038.log 
+2023/05/26-10:55:26.373 4 Level-0 table #43: started
+2023/05/26-10:55:26.384 4 Level-0 table #43: 20221 bytes OK
+2023/05/26-10:55:26.390 4 Delete type=0 #38

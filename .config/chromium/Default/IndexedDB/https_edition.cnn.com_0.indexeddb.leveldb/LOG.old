@@ -1,0 +1,6 @@
+2022/08/22-11:50:04.798 b32 Creating DB /home/wunwun91/.config/chromium/Default/IndexedDB/https_edition.cnn.com_0.indexeddb.leveldb since it was missing.
+2022/08/22-11:50:04.810 b32 Reusing MANIFEST /home/wunwun91/.config/chromium/Default/IndexedDB/https_edition.cnn.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/22-11:50:08.359 b32 Level-0 table #5: started
+2022/08/22-11:50:08.365 b32 Level-0 table #5: 2587 bytes OK
+2022/08/22-11:50:08.369 b32 Delete type=0 #3
+2022/08/22-11:50:08.370 b32 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

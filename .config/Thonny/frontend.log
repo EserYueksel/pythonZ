@@ -1,0 +1,11 @@
+14:58:07.566 INFO    thonny: Thonny version: 4.0.1
+14:58:07.567 INFO    thonny: cwd: /home/wunwun91
+14:58:07.572 INFO    thonny: original argv: ['/usr/bin/python3', '/usr/bin/thonny']
+14:58:07.573 INFO    thonny: sys.executable: /usr/bin/python3
+14:58:07.573 INFO    thonny: sys.argv: ['/usr/bin/thonny']
+14:58:07.573 INFO    thonny: sys.path: ['/usr/bin', '/usr/lib/python39.zip', '/usr/lib/python3.9', '/usr/lib/python3.9/lib-dynload', '/usr/local/lib/python3.9/dist-packages', '/usr/lib/python3/dist-packages', '/usr/lib/python3.9/dist-packages']
+14:58:07.573 INFO    thonny: sys.flags: sys.flags(debug=0, inspect=0, interactive=0, optimize=0, dont_write_bytecode=0, no_user_site=0, no_site=0, ignore_environment=0, verbose=0, bytes_warning=0, quiet=0, hash_randomization=1, isolated=0, dev_mode=False, utf8_mode=0)
+14:58:09.000 INFO    thonny.plugins.cpython_frontend.cp_front: Creating LocalCPythonProxy
+14:58:09.001 INFO    thonny.running: Starting the backend: ['/usr/bin/python3', '-u', '-B', '-m', 'thonny.plugins.cpython_backend.cp_launcher', '/home/wunwun91/Documents/Python/myCoding'] /home/wunwun91/Documents/Python/myCoding
+14:59:55.846 INFO    thonny.ui_utils: Parent y: 486, rooty: 486, vrooty: 0
+14:59:55.847 INFO    thonny.ui_utils: Placing .!configurationdialog with geometry +1039+527

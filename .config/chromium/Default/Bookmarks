@@ -1,0 +1,54 @@
+{
+   "checksum": "ecf1aa94159726faea0e0ce38ad143b0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13299704439524470",
+            "guid": "593fa12f-07d0-4bab-b830-b5f3592b25d5",
+            "id": "5",
+            "name": "How to Install Android on Raspberry Pi 4 in 2022 [Guide] | Beebom",
+            "type": "url",
+            "url": "https://beebom.com/how-install-android-raspberry-pi/"
+         }, {
+            "date_added": "13305997725866699",
+            "guid": "e9b2b390-71bc-4e1c-bdad-94d35e0c8138",
+            "id": "7",
+            "name": "What is Figma? A Design Crash Course [2021 Tutorial]",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/figma-crash-course/"
+         }, {
+            "date_added": "13305997798193668",
+            "guid": "1684c5c4-63a7-4a2c-9554-f2544ae6b7ad",
+            "id": "8",
+            "name": "Figma: All you need to know. Comprehensive beginners tutorial in 15… | by Christine Vallaure | UX Planet",
+            "type": "url",
+            "url": "https://uxplanet.org/figma-all-you-need-to-know-156b52b88e54"
+         } ],
+         "date_added": "13299701862224866",
+         "date_modified": "13305997798193668",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13299701862224874",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13299701862224878",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

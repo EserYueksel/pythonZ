@@ -1,0 +1,7 @@
+2023/05/25 17:04:09 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/05/25 17:04:29 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/05/25 17:04:59 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/05/25 17:05:53 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/05/25 17:05:55 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/05/25 17:09:41 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/05/26 08:11:24 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
