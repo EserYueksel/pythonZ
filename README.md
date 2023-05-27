@@ -1,2 +1,2 @@
 # pythonZ
-learning pythonZ on my rasperryPi
+learning Python on my rasperryPi
